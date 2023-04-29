@@ -11,7 +11,7 @@ import QZone from '../QZone/QZone';
 
 const RightNav = () => {
 	return (
-		<div>
+		<div className='mt-4'>
 			<h2>Login With</h2>
 			<Button variant="outline-primary">
 				{' '}

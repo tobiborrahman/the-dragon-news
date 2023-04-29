@@ -1,0 +1,19 @@
+.category {
+	width: 100%;
+}
+
+.link-category {
+	padding: 20px 20px;
+}
+
+.category-link {
+	color: black;
+	font-size: 20px;
+	padding: 5px;
+}
+
+.category-link:hover {
+	background: gray;
+	border-radius: 5px;
+	color: white;
+}
